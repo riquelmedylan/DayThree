@@ -16,6 +16,7 @@ body {
 }
 
 .container {
+    overflow: hidden;
   width: 34px;
   display: flex;
   align-items: center;
